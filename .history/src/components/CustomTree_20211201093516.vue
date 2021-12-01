@@ -6,7 +6,7 @@
  * @Description: Just say something
 -->
 <template>
-  <div class="custom-tree-container">
+  <div class="custom-tree-container>
     <div class="block">
       <p>使用 render-content</p>
       <el-tree
